@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.div-center {
+  margin: 0 auto !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.div-main {
+  z-index: 99;
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  margin-top: -50px;
+  margin-left: -0px;
+  width: 600px;
+  height: 200px;
+  text-align: center;
+}
+
+.mosaicflow__column { float:left; } 
+.mosaicflow__item img { display:block; width:100%; height:auto; }
